@@ -7,10 +7,9 @@
  * Return: Always (Success)
  */
 
-int mai(void)
+int main(void)
 
 {       char low, e, q;
-        
         e = 'e';
         q = 'q';
         
